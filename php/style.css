@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+html {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    padding: 20px;
+    background-color: bisque;
+}
+
+h1 {
+    border: solid black 2px;
+    border-radius: 15px;
+    padding: 5px;
+    background-color: rgb(246, 103, 103);
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+h2 {
+    text-align: center;
+}
+
+div {
+    border: solid black 2px;
+    border-radius: 15px;
+    padding: 5px;
+    background-color: rgb(103, 103, 246);
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+ol {
+    justify-content: center;
+    list-style-position: inside;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+.ejercicio7,
+.ejercicio8,
+.estructura {
+    text-align: left;
+}
