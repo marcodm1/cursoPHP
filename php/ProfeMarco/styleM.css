@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+html {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    padding: 20px;
+    background-color: rgb(243, 204, 156);
+}
+
+span {
+    font-weight: bold;
+}
+
+h1 {
+    border-radius: 15px;
+    padding: 5px;
+    background-color: rgb(246, 103, 103);
+    margin-bottom: 30px;
+}
+
+h1, h2, div {
+    text-align: center;
+}
+
+h1, div {
+    border: solid black 3px;
+}
+
+div {
+    border-radius: 15px;
+    padding: 5px;
+    background-color: rgb(109, 109, 241);
+    margin-bottom: 20px;
+}
+
+p {
+    margin-bottom: 20px;
+}
